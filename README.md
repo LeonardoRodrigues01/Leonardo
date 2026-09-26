@@ -22,7 +22,13 @@ Ao longo deste curso, foram desenvolvidas as seguintes habilidades práticas:
 * 🎨 **CSS:** Aplicação de estilos modernos aos elementos da página e criação de temas personalizados.
 * 🌓 **JavaScript:** Adição de suporte dinâmico para alternar entre temas (Light/Dark Mode).
 * 🛠️ **Ferramentas de Desenvolvedor:** Inspeção, depuração e análise do site através do navegador.
-* 🌐 **Execução:** Testes e execução do projeto em navegadores padrão.
+* 🌐 **Execução:** Testes e execução do projeto em navegadores 
+
+Clique no link abaixo para visualizar a aplicação diretamente no seu navegador:
+
+🔗 [Clique aqui para abrir o site no navegador]
+(https://github.com/LeonardoRodrigues01)
+
 
 ---
 
