@@ -27,7 +27,7 @@ Ao longo deste curso, foram desenvolvidas as seguintes habilidades práticas:
 Clique no link abaixo para visualizar a aplicação diretamente no seu navegador:
 
 🔗 [Clique aqui para abrir o site no navegador]
-(https://github.com/LeonardoRodrigues01)
+[https://github.com/LeonardoRodilrigues01/NOME-DO-REPOSITORIO](https://github.com/LeonardoRodilrigues01/Leonardo)
 
 
 ---
