@@ -24,12 +24,6 @@ Ao longo deste curso, foram desenvolvidas as seguintes habilidades práticas:
 * 🛠️ **Ferramentas de Desenvolvedor:** Inspeção, depuração e análise do site através do navegador.
 * 🌐 **Execução:** Testes e execução do projeto em navegadores 
 
-Clique no link abaixo para visualizar a aplicação diretamente no seu navegador:
-
-🔗 [Clique aqui para abrir o site no navegador]
-[https://github.com/LeonardoRodilrigues01/NOME-DO-REPOSITORIO](https://github.com/LeonardoRodilrigues01/Leonardo)
-
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
